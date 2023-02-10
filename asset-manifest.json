@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moonquake/static/css/main.65139080.css",
+    "main.js": "/moonquake/static/js/main.4b9538dd.js",
+    "index.html": "/moonquake/index.html",
+    "main.65139080.css.map": "/moonquake/static/css/main.65139080.css.map",
+    "main.4b9538dd.js.map": "/moonquake/static/js/main.4b9538dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65139080.css",
+    "static/js/main.4b9538dd.js"
+  ]
+}
